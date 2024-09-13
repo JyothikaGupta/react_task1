@@ -1,0 +1,27 @@
+{
+  "students": [
+    {
+      "id": "5c71",
+      "rollNumber": "6748",
+      "name": "Sanju",
+      "email": "sanju123@gmail.com",
+      "mobile": "2345678",
+      "checkinTime": "2:20:09 PM",
+      "checkoutTime": "2:20:11 PM"
+    },
+    {
+      "id": "4cd9",
+      "rollNumber": "67",
+      "name": "Jyothika",
+      "email": "jyothika@gmail.com",
+      "mobile": "111111"
+    },
+    {
+      "id": "be9e",
+      "rollNumber": "67",
+      "name": "Anju",
+      "email": "anju@gmail.com",
+      "mobile": "35423456778"
+    }
+  ]
+}
